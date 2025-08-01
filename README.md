@@ -25,9 +25,9 @@ I am a Third Year B-Tech ICT Student at Dhirubhai Ambani University.
 
 ## 📊 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Jenish230-daiict&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<br/>
+<br/><br/> 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Jenish230-daiict&theme=github_dark&hide_border=false"/>
-<br/>
+<br/> <br/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenish230-daiict&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 ## 🏆 GitHub Trophies  
