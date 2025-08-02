@@ -38,8 +38,14 @@ I am a Third Year B-Tech ICT Student at Dhirubhai Ambani University.
 
 ---
 
+## 🏁 Competitive Programming  
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Jenish_Macwan)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/Jenish230/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23F2A30F.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jenish230)
+
+
 [![](https://visitcount.itsvg.in/api?id=Jenish230-daiict&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
